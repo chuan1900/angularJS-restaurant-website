@@ -1,7 +1,7 @@
 /* HOME PAGE */
 .container .jumbotron {
-  box-shadow: 0 0 50px #3F0C1F;
-  border: 2px solid #3F0C1F;
+  box-shadow: 0 0 50px #91b4c0;
+  border: 2px solid #91b4c0;
 }
 
 #menu-tile, #specials-tile, #map-tile {
@@ -9,7 +9,7 @@
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #91b4c0;
   overflow: hidden;
 }
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
@@ -40,7 +40,7 @@
 /* MENU CATEGORIES PAGE */
 .category-tile {
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #91b4c0;
   overflow: hidden;
   width: 200px;
   height: 200px;
@@ -85,7 +85,7 @@
 }
 .menu-item-photo {
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #91b4c0;
   overflow: hidden;
   padding: 0;
   margin-right: -15px;

@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: #b0e0e6;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -11,7 +11,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: #ffffe0;
   border-radius: 0;
   border: 0;
 }
@@ -54,7 +54,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: #464c42;
   text-align: center;
 }
 #nav-list a:hover {
@@ -78,7 +78,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #464c42;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -91,7 +91,7 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: #085a65;
   border-top: 0;
 }
 .panel-footer div.row {
@@ -165,8 +165,8 @@ a[ui-sref="admin.auth"] {
     margin: 0 20px;
     padding: 10px;
     border: 2px solid #fff;
-    background-color: #f6b319;
-    color: #951c49;
+    background-color: #ffffe0;
+    color: #464c42;
   }
   #xs-deliver {
     margin-top: 5px;
